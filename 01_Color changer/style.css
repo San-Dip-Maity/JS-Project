@@ -1,0 +1,17 @@
+.canvas{
+    text-align: center;
+}
+
+h1 {
+    width:500px;
+    margin: 0 auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+span{
+    display:inline-block;
+    height: 60px;
+    width: 60px;
+    margin: 20px;
+    border: 2px solid black;
+}
